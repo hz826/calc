@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>IconButton.qml</file>
+        <file>KeyboardListener.qml</file>
+        <file>icon/frac.png</file>
+        <file>icon/abs.png</file>
+        <file>icon/log.png</file>
+        <file>icon/x^n.png</file>
+        <file>icon/multiple.png</file>
+        <file>icon/division.png</file>
+        <file>icon/sqrt.png</file>
+        <file>icon/sqrtn.png</file>
+        <file>icon/10^.png</file>
+        <file>icon/e^.png</file>
+    </qresource>
+</RCC>

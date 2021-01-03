@@ -1,0 +1,58 @@
+digraph G {
+    Input -> Listener
+
+    subgraph cluster2 {
+        label = "calculator";
+        bgcolor = "azure"
+        
+        subgraph cluster3 {
+            label = "symbol calculator";
+            Expression -> RadicalExtension -> Rational, IntegerFactorization, LinearEquation
+            Expression -> CyclotomicField -> Rational, Polynomial
+
+            RadicalExtension [label="Radical\nExtension", fontsize=12]
+            CyclotomicField [label="Cyclotomic\nField", fontsize=12]
+
+            subgraph cluster4 {
+                label = "basic class";
+                
+                Polynomial, LinearEquation
+                Rational -> BigInteger
+
+                LinearEquation [label="Linear\nEquation", fontsize=12]
+                {
+                    rank = same
+                    IntegerFactorization [label="Integer\nFactorization", fontsize=12]
+                    BigInteger
+                }
+            }
+        }
+
+        Calculator -> Expression
+        Calculator -> Number
+    }
+
+    subgraph cluster1 {
+        label = "canvas";
+        bgcolor = "mintcream";
+        
+        Canvas -> Renderer -> Box -> Canvas
+        Canvas -> Painter
+
+        {
+            rank = same
+            Painter
+            Box
+        }
+    }
+
+    Listener -> Calculator -> Listener
+    Listener -> Canvas
+    QTimer -> Canvas
+    
+    
+    Painter -> Output
+
+    Input [shape=box]
+    Output [shape=box]
+}

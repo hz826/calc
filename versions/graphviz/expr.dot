@@ -1,0 +1,10 @@
+digraph box {
+    //1+2*(3*4+5)
+    a -> b, c
+    a [label="+"]
+    b [label="1"]
+    c [label="*"]
+    c -> d, e
+    d [label="2"]
+    e [label="3+4*5"]
+}

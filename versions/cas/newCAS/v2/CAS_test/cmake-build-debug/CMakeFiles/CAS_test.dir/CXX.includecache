@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/algo.h
+mainheader.h
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/mainheader.h
+
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/biginteger.h
+algo.h
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/algo.h
+
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/mainheader.h
+iostream
+-
+algorithm
+-
+cmath
+-
+vector
+-
+map
+-
+complex
+-
+
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/poly.h
+rational.h
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/rational.h
+
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/rational.h
+biginteger.h
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/biginteger.h
+
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/trig.cpp
+trig.h
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/trig.h
+
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/trig.h
+poly.h
+E:/hz/cpp_homework/CAS_test/v2/CAS_test/poly.h
+
