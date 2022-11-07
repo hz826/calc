@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>IconButton.qml</file>
-        <file>KeyboardListener.qml</file>
-    </qresource>
-</RCC>

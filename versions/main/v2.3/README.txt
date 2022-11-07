@@ -1,3 +1,0 @@
-@hz 做了一些修改
-增加了光标的QVector，修改了unicode被转为char的bug
-增加了listener的鼠标点击事件

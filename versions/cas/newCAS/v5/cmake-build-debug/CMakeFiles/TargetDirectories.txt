@@ -1,3 +1,0 @@
-E:/hz/cpp_homework/CAS_test/v5/cmake-build-debug/CMakeFiles/v5.dir
-E:/hz/cpp_homework/CAS_test/v5/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/hz/cpp_homework/CAS_test/v5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

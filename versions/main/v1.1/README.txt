@@ -1,2 +1,0 @@
-v1.1
-实现了模块化的painter和textview
