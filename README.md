@@ -8,8 +8,6 @@ c++大作业-简单自然书写与符号计算器
 
 表达式化简部分只做了根式和三角函数运算
 
-
-
 项目结构
 ![image](https://github.com/hz826/calc/blob/main/docs/01.jpg)
 
