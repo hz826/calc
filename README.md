@@ -9,19 +9,19 @@ c++大作业-简单自然书写与符号计算器
 表达式化简部分只做了根式和三角函数运算
 
 项目结构
-![image](https://github.com/hz826/calc/blob/main/docs/01.jpg)
+![image](https://github.com/hz826/calc/blob/master/docs/01.jpg)
 
 演示
-![image](https://github.com/hz826/calc/blob/main/docs/02.png)
-![image](https://github.com/hz826/calc/blob/main/docs/03.gif)
-![image](https://github.com/hz826/calc/blob/main/docs/04.gif)
-![image](https://github.com/hz826/calc/blob/main/docs/05.png)
-![image](https://github.com/hz826/calc/blob/main/docs/06.png)
-![image](https://github.com/hz826/calc/blob/main/docs/07.png)
-![image](https://github.com/hz826/calc/blob/main/docs/08.png)
-![image](https://github.com/hz826/calc/blob/main/docs/09.png)
-![image](https://github.com/hz826/calc/blob/main/docs/10.png)
-![image](https://github.com/hz826/calc/blob/main/docs/11.png)
-![image](https://github.com/hz826/calc/blob/main/docs/12.jpg)
-![image](https://github.com/hz826/calc/blob/main/docs/13.png)
-![image](https://github.com/hz826/calc/blob/main/docs/14.jpg)
+![image](https://github.com/hz826/calc/blob/master/docs/02.png)
+![image](https://github.com/hz826/calc/blob/master/docs/03.gif)
+![image](https://github.com/hz826/calc/blob/master/docs/04.gif)
+![image](https://github.com/hz826/calc/blob/master/docs/05.png)
+![image](https://github.com/hz826/calc/blob/master/docs/06.png)
+![image](https://github.com/hz826/calc/blob/master/docs/07.png)
+![image](https://github.com/hz826/calc/blob/master/docs/08.png)
+![image](https://github.com/hz826/calc/blob/master/docs/09.png)
+![image](https://github.com/hz826/calc/blob/master/docs/10.png)
+![image](https://github.com/hz826/calc/blob/master/docs/11.png)
+![image](https://github.com/hz826/calc/blob/master/docs/12.jpg)
+![image](https://github.com/hz826/calc/blob/master/docs/13.png)
+![image](https://github.com/hz826/calc/blob/master/docs/14.jpg)
